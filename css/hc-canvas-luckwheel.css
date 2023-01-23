@@ -126,4 +126,5 @@ body {
 
 .bg {
   background-image: url("../images/tet.jpg");
+  background-size: cover;
 }
